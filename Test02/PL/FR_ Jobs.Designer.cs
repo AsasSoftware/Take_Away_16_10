@@ -413,7 +413,7 @@
             this.btn_Jobs_Add.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btn_Jobs_Add.Font = new System.Drawing.Font("Tahoma", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_Jobs_Add.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.btn_Jobs_Add.Location = new System.Drawing.Point(489, 128);
+            this.btn_Jobs_Add.Location = new System.Drawing.Point(488, 128);
             this.btn_Jobs_Add.Name = "btn_Jobs_Add";
             this.btn_Jobs_Add.Size = new System.Drawing.Size(33, 31);
             this.btn_Jobs_Add.TabIndex = 106;
