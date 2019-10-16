@@ -1,4 +1,4 @@
-﻿namespace Test02
+﻿namespace Take_Away.PL
 {
     partial class FR_Nationalities
     {

@@ -1,4 +1,4 @@
-﻿namespace Test02.PL
+﻿namespace Take_Away.PL
 {
     partial class FR_Advance
     {

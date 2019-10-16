@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Test02.PL
+namespace Take_Away.PL
 {
     public partial class FR_Advance : Form
     {

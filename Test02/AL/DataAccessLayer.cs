@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.Data.SqlClient;
 using System.Data;
 
-namespace Take_Away
+namespace Take_Away.AL
 {
     class DataAccessLayer
     {
